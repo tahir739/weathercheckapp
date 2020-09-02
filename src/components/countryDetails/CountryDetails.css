@@ -1,0 +1,31 @@
+.label{
+    color: #474e51;
+    margin-bottom: 0px;
+    margin-right: 12px;
+}
+.flag{
+    border-radius: 6px;
+    width: 210px;
+    text-align: center;   
+    box-shadow: 1px 1px 0px #c4c4c4,
+                2px 2px 0px #c4c4c4,
+                3px 3px 0px #c4c4c4,
+                4px 4px 0px #c4c4c4,
+                5px 5px 0px #c4c4c4,
+                6px 6px 0px #c4c4c4; 
+}
+
+p{
+    margin-bottom: 0px;
+    font-weight: 600;
+    color:#000;
+}
+
+.languages{
+    padding: 12px 0px;    
+}
+
+.languages li{
+    color: #000;
+    font-weight: 600;
+}

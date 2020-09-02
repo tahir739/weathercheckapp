@@ -1,0 +1,15 @@
+.label{
+    color: #474e51;
+    margin-bottom: 0px;
+}
+.weather-image{
+    border-radius: 50%;
+    width: 25px;
+    margin-right: 6px;
+}
+
+p{
+    margin-bottom: 0px;
+    font-weight: 600;
+    color:#000;
+}

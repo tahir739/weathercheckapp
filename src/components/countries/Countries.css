@@ -1,0 +1,43 @@
+.heading-margin{
+    margin: 48px auto;
+}
+.top-margin{
+    margin-top: 24px;
+}
+
+.search-input{
+    background-color: #D7EDE9;
+    color: #474e51;
+    border: none;
+    box-shadow: none;
+    border-radius: 6px;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.search-input:focus, .search-input:active, .search-input:hover{
+    box-shadow: none;
+    outline: none;
+}
+
+.country-name{
+    cursor: pointer;
+}
+
+.details{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.strong-name{
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;  
+    color: #212529;
+    cursor: pointer;
+    font-size: 40px;
+    margin-bottom: 12px;
+}
+.small-name{
+    cursor: pointer;   
+}

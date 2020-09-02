@@ -1,0 +1,1 @@
+export const WEATHER_API = "https://restcountries.eu/rest/v2/all";
