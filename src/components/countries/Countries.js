@@ -43,7 +43,7 @@ const Countries = () => {
     <div className="container heading-margin">
       <div className="row">
         <div className="col">
-          <h1>Weather Today</h1>
+          <h1>Check Weather Today</h1>
           <p>
             Please click on a country, or search for the name in search box.
           </p>
